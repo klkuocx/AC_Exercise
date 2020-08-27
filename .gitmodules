@@ -1,0 +1,9 @@
+[submodule "Social_List"]
+	path = Social_List
+	url = https://github.com/klkuocx/Social_List
+[submodule "Restaurant_List"]
+	path = Restaurant_List
+	url = https://github.com/klkuocx/Restaurant_List
+[submodule "Password_Generator"]
+	path = Password_Generator
+	url = https://github.com/klkuocx/Password_Generator
